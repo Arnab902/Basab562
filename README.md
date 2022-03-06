@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm BASAB SAHA</h1>
-<h3 align="center">A budding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> developer and engineer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
+<h3 align="center">A budding <img src="https://dribbble.com/shots/15648952-Computer-work" width="18px"> developer and engineer from India <img src="https://dribbble.com/shots/15648952-Computer-work" width="30px"></h3>
 
 
 
