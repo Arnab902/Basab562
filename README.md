@@ -14,7 +14,7 @@
 
 - 👨‍💻 You can also check out my portfolio at [LINK OF GOOGLE ](lINK OF GITHUB) 
 
-- 🤝 I’m looking to work on **Projects**
+- 🤝 I’m looking to work on ** Real Time Projects**
 
 - 💬 Ask me about **anything related to Programming , Projects , Artficial Intelligence and Machine Learning**
 
