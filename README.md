@@ -6,17 +6,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Basab562&theme=dracula" alt="Basab562" /></a> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence  **
+- 🔭 I’m currently working on **Artificial Intelligence **
 
-- 🌱 I’m currently learning **Statistics for Machine Learning & Deep Learning **
+- 🌱 I’m currently learning **Statistics for Machine Learning & Deep Learning**
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Basab Kiran Saha](https://www.linkedin.com/in/basab-kiran-saha/)**
 
 - 👨‍💻 You can also check out my portfolio at [LINK OF GOOGLE ](lINK OF GITHUB) 
 
-- 🤝 I’m looking to work on ** Real Time Projects**
+- 🤝 I’m looking to work on **Real Time Projects**
 
-- 💬 Ask me about **anything related to Programming , Projects , Artficial Intelligence and Machine Learning**
+- 💬 Ask me about **Anything related to Programming , Projects , Artficial Intelligence and Machine Learning**
 
 - 📫 How to reach me **bsabkransaha@gmail.com**
 
