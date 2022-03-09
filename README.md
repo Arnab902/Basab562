@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **[LinkedIn- Basab Kiran Saha](https://www.linkedin.com/in/basab-kiran-saha/)**
 
-- 👨‍💻 You can also check out my portfolio at [LINK OF GOOGLE ](lINK OF GITHUB) 
+<!--- 👨‍💻 You can also check out my portfolio at [LINK OF GOOGLE ](lINK OF GITHUB)--> 
 
 - 🤝 I’m looking to work on **Real Time Projects**
 
