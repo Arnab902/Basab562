@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="left">
-  <a href="https://twitter.com/BasabSaha183003" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BasabSaha183003" height="30" width="40" /></a>
+  <a href="https://twitter.com/BasabSaha183003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BasabSaha183003" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/basab-kiran-saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basab-kiran-saha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/scribbled__life_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scribbled__life_" height="30" width="40" /></a> 
 <a href="https://www.hackerrank.com/bsabkransaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bsabkransaha" height="30" width="40" /></a></p>
