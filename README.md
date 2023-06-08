@@ -20,7 +20,8 @@
 
 - 📫 How to reach me **bsabkransaha@gmail.com**
 
-- ⚡ Fun fact **I am a person who will push the door even if it says "PULL". XD**
+- ⚡ Fun fact **I am a person who will push the door even if it says "PULL". XD 
+      Currently I am working at **Accenture as Custom Software Engineering Associate**
 
 
 
